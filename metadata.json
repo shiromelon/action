@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Action Game Spec Builder",
+  "description": "空を自由に飛び回り雲の形状を物理演算で操る3Dアクションゲームの、詳細仕様書作成・インタラクティブ検証シミュレーター。他のAIに渡すための高精細システムプロンプトや物理コード構造の動的生成をサポート。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
